@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [homelab](https://github.com/adwinying/server-provisioning), [Linux ricing](https://github.com/adwinying/dotfiles) and more
+- 🔭 I’m currently working on [these projects](https://github.com/adwinying/todo/projects/1)
 - 🌱 I’m currently learning golang + gin web framework
 - 👯 I’m looking to collaborate on anything interesting!
 - 💬 Ask me about anything!
